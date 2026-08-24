@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Hardik Suhag
+Computer Science Student at UPES
+Learning C Programming & Git
 
-<!--
-**Hardik-Suhag-590033892/Hardik-Suhag-590033892** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- C Programming
+- Git & GitHub
 
-Here are some ideas to get you started:
+## Current Goals
+- Build real-world projects
+- Improve programming and software design skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+- Email: HARDIK.33892@stu.upes.ac.in
